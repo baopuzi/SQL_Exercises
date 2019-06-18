@@ -1,1 +1,1 @@
-# CNC_monitor
+# SQL exercise
