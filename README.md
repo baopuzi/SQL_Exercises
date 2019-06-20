@@ -1,1 +1,1 @@
-# SQL exercises by using MySQL.
+# SQL exercises using MySQL.
