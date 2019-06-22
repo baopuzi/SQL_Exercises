@@ -1,4 +1,4 @@
-# SQL exercises using MySQL.
+# SQL exercises using MySQL
 
 1. 50道SQL练习题及答案与简单分析
 
